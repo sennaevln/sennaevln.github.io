@@ -119,6 +119,48 @@ header {
   animation: float 4.2s infinite;
 }
 
+.circle7 {
+  position: absolute;
+  top: 120px;
+  left: 1257px;
+  animation: float 5.2s infinite;
+}
+
+.circle8 {
+  position: absolute;
+  top: 1089px;
+  left: 56px;
+  animation: float 4.6s infinite;
+}
+
+.circle9 {
+  position: absolute;
+  top: 2011px;
+  left: 1378px;
+  animation: float 5.8s infinite;
+}
+
+.circle10 {
+  position: absolute;
+  top: 3069px;
+  left: 95px;
+  animation: float 5.2s infinite;
+}
+
+.circle11 {
+  position: absolute;
+  top: 5553px;
+  left: 102px;
+  animation: float 3.9s infinite;
+}
+
+.circle12 {
+  position: absolute;
+  top: 4184px;
+  left: 1309px;
+  animation: float 4.8s infinite;
+}
+
 .social-icons img {
   margin-top: 40px;
    margin-right: 10px;
@@ -323,11 +365,83 @@ font-size: 16px;
   background-color: #131922;
 }
 
+.four-column8 {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  padding: 0px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  background-color: #131922;
+  grid-gap: 10px; /
+}
+
+.four-column8 div {
+  background-color: #131922;
+}
+
+.four-column9 {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  padding: 0px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  background-color: #131922;
+  grid-gap: 10px; /
+}
+
+.four-column9 div {
+  background-color: #131922;
+}
+
+.four-column10 {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  padding: 0px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  background-color: #131922;
+  grid-gap: 10px; /
+}
+
+.four-column10 div {
+  background-color: #131922;
+}
+
+.four-column11 {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  padding: 0px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  background-color: #131922;
+  grid-gap: 10px; /
+}
+
+.four-column11 div {
+  background-color: #131922;
+}
+
+
+
 .contact-me {
   position: absolute;
-  top: 162px;
+  top: 150px;
   left: 747px;
   padding: 17px 74px;
+}
+
+.button-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
+
+.suggest {
+  padding: 17px 74px;
+  margin-top: 80px;
+  margin-bottom: -30px;
 }
 
 footer {
