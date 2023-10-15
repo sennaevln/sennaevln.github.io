@@ -433,6 +433,26 @@ li a {
   background-color: #131922;
 }
 
+.seemore {
+  position: absolute;
+  top: 2950px;
+  left: 940px;
+}
+
+.seemore1 {
+  position: absolute;
+  top: 3988px;
+  left: 938px;
+}
+
+.seemore2 {
+  position: absolute;
+  top: 4913px;
+  left: 938px;
+}
+
+
+
 /* about me */
 
 .contact-me {
